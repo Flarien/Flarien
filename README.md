@@ -45,7 +45,7 @@
 ## Algunas tecnologías que utilizo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,ts,react,nextjs,nodejs,express,figma,firebase, vercel,python,java,materialui,mongodb,mysql,redux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,ts,react,nextjs,nodejs,express,figma,firebase,vercel,python,java,materialui,mongodb,mysql,redux,vscode&perline=14" />
   </a>
 </p>
 
